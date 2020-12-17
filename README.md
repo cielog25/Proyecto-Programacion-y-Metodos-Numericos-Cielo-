@@ -23,6 +23,8 @@ Contiene archivos de las practicas elaboradas por Cielo Gandara durante el semes
 *[**PRACTICA 11**:Metodos de ecuaciones lineales.](https://github.com/cielog25/Proyecto-Programacion-y-Metodos-Numericos-Cielo-/tree/main/PRACTICA%2011)
 
 
+![programacion](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)
+
 **Muchas gracias por todo su tiempo y atencion**
 
 
