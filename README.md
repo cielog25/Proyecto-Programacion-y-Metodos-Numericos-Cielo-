@@ -25,10 +25,9 @@ Contiene archivos de los codigos elaborados por cada practica.
 
 ![programacion](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)
 
-**Muchas gracias por todo su tiempo y atencion**
+**Muchas gracias por todo su tiempo y atencion.**
 
-**Elaborado por Cielo Gandara Reyes**
-
+**Elaborado por Cielo Gandara Reyes.**
 
 
 
