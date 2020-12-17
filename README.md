@@ -4,7 +4,7 @@
 
 Este es mi proyecto final de la materia de Programacin y Metodos Numericos en la UABC.
 
-Contiene archivos de las practicas elaboradas por Cielo Gandara durante el semestre.
+Contiene archivos de los codigos elaborados por cada practica.
 
 *[**PRACTICA 1**: Introduccion al entorno y variables de programacion en lenguaje.](https://github.com/cielog25/Proyecto-Programacion-y-Metodos-Numericos-Cielo-/tree/main/PRACTICA%201)
 
@@ -26,6 +26,8 @@ Contiene archivos de las practicas elaboradas por Cielo Gandara durante el semes
 ![programacion](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)
 
 **Muchas gracias por todo su tiempo y atencion**
+
+**Elaborado por Cielo Gandara Reyes**
 
 
 
